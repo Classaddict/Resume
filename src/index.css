@@ -1,0 +1,21 @@
+body {
+    background-color: #fff5d7;
+}
+
+.capacity {
+    font-size: xx-large;
+    text-align: center;
+}
+
+#selecter {
+    margin-left: 45%;
+    margin-top: 6em;
+}
+
+#plus_minus {
+    margin-left: 46%;
+    margin-top: 1em;
+    display: flex;
+    gap: 1.2em;
+    width: 4em;
+}
